@@ -9,7 +9,6 @@ clone this project and crawl website data now !
 4. crawlObject(url, dirname)
 
 5. example
-6. `
 7. url: 'https://shopee.vn/mall/Th%E1%BB%9Di-Trang-N%E1%BB%AF-cat.11035639'
 8. dirname: 'data_fashion_woman'
-9. `
+9. 
